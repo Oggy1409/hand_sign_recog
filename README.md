@@ -76,5 +76,9 @@ Best performance with good lighting and clear hand gestures
 <img width="805" height="620" alt="Screenshot 2025-10-01 131235" src="https://github.com/user-attachments/assets/cbbee9ca-2f95-41a9-8c02-510fcd8c72ca" />
 
 
+### IT CAN CLASSIFY LETTERS
+A,B,C,F,I,K,L,O,U,V,W,Y
+
+
 
 
